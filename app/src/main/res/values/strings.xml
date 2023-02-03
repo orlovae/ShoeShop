@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Shoe Shop</string>
+    <!-- SCREEN LOGIN -->
+    <string name="login_login">LOGIN</string>
+    <string name="login_password">PASSWORD</string>
+    <string name="login_sing_in">SING IN</string>
+    <string name="login_sing_up">SING UP</string>
+    <!-- SCREEN WELCOME -->
+    <string name="welcome_text_view_1">TEXTVIEW 1</string>
+    <string name="welcome_text_view_2">TEXTVIEW 2</string>
+    <string name="welcome_manual">GO TO MANUAL</string>
+    <!-- SCREEN MANUAL -->
+    <string name="manual_text_view_1">TEXTVIEW 1</string>
+    <string name="manual_text_view_2">TEXTVIEW 2</string>
+    <string name="manual_shoes">GO TO SHOES</string>
+    <!-- SCREEN SHOE LIST -->
+    <!-- SCREEN SHOE add -->
+    <string name="shoe_add_tv_shoe_name">SHOE NAME</string>
+    <string name="shoe_add_et_shoe_name">ENTER SHOE NAME</string>
+    <string name="shoe_add_tv_company_name">COMPANY NAME</string>
+    <string name="shoe_add_et_company_name">ENTER COMPANY NAME</string>
+    <string name="shoe_add_tv_shoe_size">SHOE SIZE</string>
+    <string name="shoe_add_et_shoe_size">ENTER SHOE SIZE</string>
+    <string name="shoe_add_tv_shoe_description">SHOE DESCRIPTION</string>
+    <string name="shoe_add_et_shoe_description">ENTER SHOE DESCRIPTION</string>
+    <string name="shoe_add_button_save">SAVE</string>
+    <string name="shoe_add_button_cancel">CANCEL</string>
+    <!-- FAB -->
+    <string name="fab">WTF</string>
+    <!-- APP MENU -->
+    <string name="app_menu_login">LOGIN</string>
+    <string name="app_menu_welcome">WELCOME</string>
+    <string name="app_menu_manual">MANUAL</string>
+    <string name="app_menu_shoe_list">SHOES</string>
+    <string name="app_menu_add_shoe">ADD SHOE</string>
+    <string name="app_menu_logout">LOGOUT</string>
+</resources>
